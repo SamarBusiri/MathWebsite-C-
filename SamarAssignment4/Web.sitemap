@@ -1,0 +1,12 @@
+﻿<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+    <siteMapNode title="root" url="" description="" >
+    <siteMapNode title="Home" url="~/Home.aspx" description="Home Page" image="~/images/icon1.png"  />
+    <siteMapNode title="Equations" url="~/Equations.aspx" description="Equations" image="~/images/icon1.png" >
+      <siteMapNode title="Simple Equation" url="~/SimpleEquation.aspx" description="Simple Equations" image="~/images/icon2.png"  />
+      <siteMapNode title="Polynomial Equation" url="~/PolynomialEquation.aspx" description="Polynomial Equations Page" image="~/images/icon2.png" />
+    </siteMapNode>
+      <siteMapNode title="About us" url="~/AboutUs.aspx" description="About us Page" image="~/images/icon1.png" />
+    <siteMapNode title="Contact us" url="~/ContactUs.aspx" description="Contact us Page" image="~/images/icon1.png" />
+
+  </siteMapNode>
+</siteMap>
